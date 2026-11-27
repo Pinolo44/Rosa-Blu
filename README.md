@@ -7,7 +7,7 @@ sblocca nuove abilità giorno dopo giorno.
 
 ## Requisiti
 
-- Java 21 (JDK)
+- Java 25 (JDK)
 - Nessuna installazione di Gradle: usa il wrapper incluso
 
 ## Come eseguire
